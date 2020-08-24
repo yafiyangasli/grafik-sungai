@@ -1,0 +1,40 @@
+body{
+	background-color: #EEEEEE;
+	font-family: 'Montserrat-regular';
+}
+
+a.nav-link{
+	border-radius: 15px; 
+	background-color: #DFA624;
+	transition-duration: 0.4s;
+}
+
+a.nav-link:hover {
+	background-color: #DFA601;
+}
+
+.dropdown-menu {
+	background-color: #DFA624;
+}
+
+.dropdown-menu a.dropdown-item{
+	opacity: 70%;
+	color: white;
+}
+
+.dropdown-menu a.dropdown-item:hover {
+	background-color: #f7ba2c;
+}
+
+h1#header-cp{
+	font-family: 'Montserrat-bold';
+	font-size: 50px; 
+}
+
+i#ic-whatsapp{
+	font-size: 40px; 
+}
+
+#no-whatsapp{
+	font-size:25px; 
+}

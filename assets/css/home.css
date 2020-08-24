@@ -1,0 +1,58 @@
+body{
+	font-family: 'Montserrat-regular';
+}
+
+a.nav-link{
+	border-radius: 15px; 
+	background-color: #DFA624;
+	transition-duration: 0.4s;
+}
+
+a.nav-link:hover {
+	background-color: #DFA601;
+}
+
+.dropdown-menu {
+	background-color: #DFA624;
+}
+
+.dropdown-menu a.dropdown-item{
+	opacity: 70%;
+	color: white;
+}
+
+.dropdown-menu a.dropdown-item:hover {
+	background-color: #f7ba2c;
+}
+
+.jumbotron {
+	height: 650px;
+}
+
+.top-right-sm {
+  position: absolute;
+  top: 48px;
+  right: 16px;
+  font-size: 33px;
+}
+
+.top-right-sm p#bawahnya-sm{
+	font-family: 'Montserrat-medium';
+	font-size: 35px;
+}
+
+.top-right {
+  position: absolute;
+  top: 18px;
+  right: 2px;
+}
+
+.top-right p#bawahnya{
+	font-family: 'Montserrat-medium';
+	font-size: 13px;
+}
+
+.container-image {
+  position: relative;
+  text-align: center;
+}
